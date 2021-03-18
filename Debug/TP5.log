@@ -1,0 +1,9 @@
+﻿  GroupePlats.cpp
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(11,20): warning C4018: '<' : incompatibilité signed/unsigned
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(15,26): warning C4018: '<' : incompatibilité signed/unsigned
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(18,26): warning C4018: '<' : incompatibilité signed/unsigned
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(34,20): warning C4018: '<' : incompatibilité signed/unsigned
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(40,26): warning C4018: '<' : incompatibilité signed/unsigned
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(43,27): warning C4018: '<' : incompatibilité signed/unsigned
+E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\GroupePlats.cpp(44,14): warning C4129: 'e' : caractère de séquence d'échappement non reconnu
+  TP5.vcxproj -> E:\IUT COURS\Initiation algo\OBJET TP\TP5 dbt correc\TP5\Debug\TP5.exe
